@@ -106,7 +106,7 @@ public class workConvert implements DatesToCronConverter {
     }
 
     public String getImplementationInfo() {
-        return "Mikhail Nemtsov; com.nemtsov.mikhail; https://github.com/";
+        return "Mikhail Nemtsov; com.nemtsov.mikhail; https://github.com/MihaNemtsov/Test1.git";
     }
 
 
